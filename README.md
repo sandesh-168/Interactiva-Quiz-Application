@@ -1,4 +1,4 @@
-# Interactiva-Quiz-Application
+# Interactive-Quiz-Application
 
 
 COMPANY:"CODTECH IT SOLUTIONS"
