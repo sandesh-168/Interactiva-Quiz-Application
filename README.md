@@ -13,6 +13,7 @@ DURATION:"8 WEEKS"
 
 MENTOR:"NEELA SANTOSH"
 
+DESCRIPTION:
 
 Project Overview: JavaScript-Based Interactive Quiz Application
 This project is a dynamic and interactive quiz application built using HTML, CSS, and JavaScript. The primary goal of the application is to provide users with an engaging way to test their knowledge through a series of multiple-choice questions. With features such as instant feedback, explanations for answers, randomized question sets, and score tracking, the application delivers a complete quiz experience suitable for learning, practicing, or just having fun.
@@ -48,5 +49,11 @@ Project Structure
    questions.js: Holds an array of question objects, each with its options, correct answer, and explanation.
 
    app.js: Implements the interactive logic including event handling, answer checking, feedback display, and score calculation.
+
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/23c4582c-bee5-4fee-9d1f-17527376f140)
+![Image](https://github.com/user-attachments/assets/d77ca505-89cd-471a-9d5d-32b62eaaf6a4)
+![Image](https://github.com/user-attachments/assets/70efe59b-13a6-4fa6-a3b4-fb53658b7580)
 
  
